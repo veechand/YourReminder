@@ -1,4 +1,4 @@
 YourReminder
 ============
 
-Helping you not to miss anything important
+Helping you not to miss anything important.
